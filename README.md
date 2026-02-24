@@ -39,6 +39,7 @@
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👨‍💻 Author](#-author)
+- [Author](#author)
 
 ---
 
