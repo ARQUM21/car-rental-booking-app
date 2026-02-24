@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1875" height="834" alt="image" src="https://github.com/user-attachments/assets/8b65d96e-c926-4893-907f-bee25410c072" /><div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=🚗+Car+Rental+Booking+App;Online+Vehicle+Rental+Platform;Full+Stack+MERN+Application" alt="Typing SVG" />
 
@@ -49,31 +49,31 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/user-login.png" alt="User Login" width="100%"/>
+      <img src="./screenshots/caruserlogin.PNG" alt="User Login" width="100%"/>
       <br/>
       <b>🔐 User Login</b>
     </td>
     <td align="center">
-      <img src="./screenshots/add-car.png" alt="Hero Section" width="100%"/>
+      <img src="./screenshots/carherosection.PNG" alt="Hero Section" width="100%"/>
       <br/>
       <b>🚗 Hero Section</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./screenshots/car-cards.png" alt="Car Cards" width="100%"/>
+      <img src="./screenshots/carcards.PNG" alt="Car Cards" width="100%"/>
       <br/>
       <b>🚘 Car Cards</b>
     </td>
     <td align="center">
-      <img src="./screenshots/book-car.png" alt="Book a Car" width="100%"/>
+      <img src="./screenshots/carbooking.PNG" alt="Book a Car" width="100%"/>
       <br/>
       <b>📅 Book a Car</b>
     </td>    
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="./screenshots/my-bookings.png" alt="My Bookings" width="50%"/>
+      <img src="./screenshots/mybooking.PNG" alt="My Bookings" width="50%"/>
       <br/>
       <b>📋 My Bookings</b>
     </td>
@@ -87,31 +87,31 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/owner-login.png" alt="Owner Login" width="100%"/>
+      <img src="./screenshots/userlogin.PNG" alt="Owner Login" width="100%"/>
       <br/>
       <b>🔑 Owner Login</b>
     </td>
     <td align="center">
-      <img src="./screenshots/owner-dashboard.png" alt="Owner Dashboard" width="100%"/>
+      <img src="./screenshots/cardashboard.PNG" alt="Owner Dashboard" width="100%"/>
       <br/>
       <b>📊 Owner Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./screenshots/owner-add-car.png" alt="Add Car" width="100%"/>
+      <img src="./screenshots/addcar.PNG" alt="Add Car" width="100%"/>
       <br/>
       <b>➕ Add New Car</b>
     </td>
     <td align="center">
-      <img src="./screenshots/manage-cars.png" alt="Manage Cars" width="100%"/>
+      <img src="./screenshots/managecar.PNG" alt="Manage Cars" width="100%"/>
       <br/>
       <b>🔧 Manage Cars</b>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="./screenshots/manage-bookings.png" alt="Manage Bookings" width="50%"/>
+      <img src="./screenshots/managebooking.PNG" alt="Manage Bookings" width="50%"/>
       <br/>
       <b>📂 Manage Bookings</b>
     </td>
