@@ -1,4 +1,4 @@
-<img width="1875" height="834" alt="image" src="https://github.com/user-attachments/assets/8b65d96e-c926-4893-907f-bee25410c072" /><div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=🚗+Car+Rental+Booking+App;Online+Vehicle+Rental+Platform;Full+Stack+MERN+Application" alt="Typing SVG" />
 
@@ -87,7 +87,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./screenshots/userlogin.PNG" alt="Owner Login" width="100%"/>
+      <img src="./screenshots/caruserlogin.PNG" alt="Owner Login" width="100%"/>
       <br/>
       <b>🔑 Owner Login</b>
     </td>
