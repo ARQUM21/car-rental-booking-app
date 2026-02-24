@@ -36,7 +36,6 @@
 - [📁 Project Structure](#-project-structure)
 - [⚙️ Installation & Setup](#️-installation--setup)
 - [🔗 API Endpoints](#-api-endpoints)
-- [🌊 App Flow](#-app-flow)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👨‍💻 Author](#-author)
