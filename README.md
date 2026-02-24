@@ -56,7 +56,7 @@
     <td align="center">
       <img src="./screenshots/add-car.png" alt="Browse Cars" width="100%"/>
       <br/>
-      <b>🚗 Browse & Add Car</b>
+      <b>🚗 hero section</b>
     </td>
   </tr>
   <tr>
