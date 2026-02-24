@@ -54,19 +54,26 @@
       <b>🔐 User Login</b>
     </td>
     <td align="center">
-      <img src="./screenshots/add-car.png" alt="Browse Cars" width="100%"/>
+      <img src="./screenshots/add-car.png" alt="Hero Section" width="100%"/>
       <br/>
-      <b>🚗 hero section</b>
+      <b>🚗 Hero Section</b>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <img src="./screenshots/car-cards.png" alt="Car Cards" width="100%"/>
+      <br/>
+      <b>🚘 Car Cards</b>
+    </td>
+    <td align="center">
       <img src="./screenshots/book-car.png" alt="Book a Car" width="100%"/>
       <br/>
       <b>📅 Book a Car</b>
-    </td>
-    <td align="center">
-      <img src="./screenshots/my-bookings.png" alt="My Bookings" width="100%"/>
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./screenshots/my-bookings.png" alt="My Bookings" width="50%"/>
       <br/>
       <b>📋 My Bookings</b>
     </td>
