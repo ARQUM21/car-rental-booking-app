@@ -425,9 +425,10 @@ See the full [LICENSE](https://arena.ai/c/LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-<div align="center"><img src="https://github.com/ARQUM21.png" width="100px" style="border-radius:50%"/>
-
 ### Muhammad Arqum Tariq
+
+<div align="center">
+<img src="https://github.com/ARQUM21.png" width="100px" style="border-radius:50%"/>
 
 _Full Stack Developer | MERN Stack_
 
@@ -436,7 +437,6 @@ _Full Stack Developer | MERN Stack_
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
 
 </div>
-
 * * *
 
 ## ⭐ Support the Project
