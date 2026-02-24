@@ -371,7 +371,7 @@ Contributions, issues, and feature requests are welcome! 🎉
 2.  Clone your fork:   
 
 ```Bash
-    git clone https://github.com/YOUR_USERNAME/car-rental-booking-app.git
+    git clone https://github.com/ARQUM21/car-rental-booking-app.git
 ```
 
 3.  Create your feature branch:
