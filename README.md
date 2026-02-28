@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=🚗+Car+Rental+Booking+App;Online+Vehicle+Rental+Platform;Full+Stack+MERN+Application" alt="Typing SVG" />
 
 > 🚀 A **production-ready**, full-stack **Car Rental Booking Platform** built with the MERN stack.
-> Users can browse, filter, and book vehicles. Owners can list cars, manage bookings, and track revenue — all in one seamless platform.
+> Users can browse, filter, and book vehicles. Owners can list cars, manage bookings, and track revenue — all in one seamless platform.  
 
 <br/>
 
